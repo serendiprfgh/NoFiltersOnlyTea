@@ -10,15 +10,6 @@ domain: "serendiprfgh.github.io"
 
 header_image: assets/profile.png
 
-google_analytics:
-comments: false
-disqus:
-
-author:
-author_bio: >-
-
-author_pic:
-
 paginate: 5
 paginate_path: "/:num/"
 
