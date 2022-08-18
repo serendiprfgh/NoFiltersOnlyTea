@@ -3,7 +3,7 @@ email: savi.vish06@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This unfiltered strong brew, brought to you by Savithri Vishwanathan, will be served every Monday evening to beat those beginning-of-the-week-blues.
   Savour the bittersweet flavours as a twenty-something girl spills the beans.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "NoFiltersOnlyTea" # the subpath of your site, e.g. /blog
 url: "https://serendiprfgh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 domain: "serendiprfgh.github.io"
 
